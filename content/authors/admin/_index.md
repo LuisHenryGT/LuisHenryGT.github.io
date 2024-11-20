@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Luis
+title: Luis Henry
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Luis
-last_name: Gonzalez
+first_name: Luis Henry
+last_name: Gonzalez Torres
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Medical Studdent
+role: 4th-year Medical Studdent
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,41 +48,31 @@ profiles:
 
 interests:
   - Medicine
-  - Computer Science Linguistics
+  - Computer Science
   - Medical imaging
 
 education:
-  - area: B.H.Sc.
-    institution: Univeristy of Ottawa
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.D.,C.M.
+    institution: McGill University
+    date_start: 2021-08-15
+    date_end: 2025-05-30
+
+  - area: B.Sc. Health Science
+    institution: Univeristiy of Ottawa
+    date_start: 2018-08-30
+    date_end: 2021-06-30
     summary: |
+      GPA: 3.98/4.0
       Thesis on AI generated guideline for surgical palning.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: DEC Sience de la nature
+    institution: Cégep de l'Abitibi-Témiscamingue
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Technicien au cours d'eau
     company_name: Ville de Rouyn
@@ -116,11 +106,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: MATAL
         description: ''
         percent: 40
         icon: circle-stack
@@ -132,11 +122,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Soccer
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Coding
         description: ''
         percent: 80
         icon: camera
@@ -146,7 +136,7 @@ languages:
     percent: 100
   - name: French
     percent: 99
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
