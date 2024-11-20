@@ -64,9 +64,7 @@ sections:
       view: article-grid
       columns: 1
       css_class: "bg-primary-700"
-      css_style: ""
-
-        
+      css_style: ""      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
