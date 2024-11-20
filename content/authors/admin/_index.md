@@ -57,7 +57,7 @@ education:
       - Clarke McLeod Scholarship - Anatomy Prosection Award 
       - Multiple electives in radiology, nuclear medicine, and related specialties
 
-  - area: B.H.Sc. Health Science
+  - area: B.Sc. Health Science
     institution: University of Ottawa
     date_start: 2018-08-30
     date_end: 2021-06-30
@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: MATAL
+      - name: MATLAB
         description: ''
         percent: 40
         icon: circle-stack
