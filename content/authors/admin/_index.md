@@ -24,7 +24,7 @@ role: 4th-year Medical Studdent
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McGill Univerisity
+  - name: McGill University
     url: https://mcgill.ca/
 
 # Social network links
@@ -35,16 +35,12 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/LuisHenryGT
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/LuisHenryGT
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-4758-7621
 
 interests:
   - Medicine
@@ -56,33 +52,38 @@ education:
     institution: McGill University
     date_start: 2021-08-15
     date_end: 2025-05-30
+    summary: |
+      - Nominations for Outstanding professionalism and Empathy during Clerkship
+      - Clarke McLeod Scholarship - Anatomy Prosection Award 
+      - Multiple electives in radiology, nuclear medicine, and related specialties
 
-  - area: B.Sc. Health Science
-    institution: Univeristiy of Ottawa
+  - area: B.H.Sc. Health Science
+    institution: University of Ottawa
     date_start: 2018-08-30
     date_end: 2021-06-30
     summary: |
-      GPA: 3.98/4.0
-      Thesis on AI generated guideline for surgical palning.
+      - GPA: 3.98/4.0
+      - Thesis on AI generated guideline for surgical palning.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: DEC Sience de la nature
+  - area: Diploma of College Studies in Natural Sciences
     institution: Cégep de l'Abitibi-Témiscamingue
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-09-01
+    date_end: 2018-05-30
 
 work:
-  - position: Technicien au cours d'eau
-    company_name: Ville de Rouyn
-    company_url: ''
+  - position: AI Internship
+
+    company_name: SONARO AI
+    company_url: 'https://sonaro-ai.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - gere des bails
+      - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
@@ -135,9 +136,9 @@ languages:
   - name: English
     percent: 100
   - name: French
-    percent: 99
+    percent: 100
   - name: Spanish
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -173,4 +174,4 @@ awards:
 
 ## About Me
 
-Luis Henry Gonzalez Torres is a med student of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ Luis Henry Gonzalez Torres is a fourth-year medical student at McGill University with a passion for radiology and medical imaging. His academic interests span artificial intelligence in healthcare, imaging informatics, and clinical decision-making tools. Luis has spearheaded projects on AI-driven imaging solutions and collaborated on research exploring reproducibility in thoracic CT scan measurements. He actively contributes to workshops and initiatives, such as teaching peers to develop AI algorithms for detecting pneumonia on chest X-rays and organizing inter-university ultrasound competitions. His clinical focus integrates his love for anatomy, patient care, and technology, aiming to advance precision medicine through innovative imaging approaches.
