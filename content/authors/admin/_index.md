@@ -149,7 +149,7 @@ awards:
     url: https://cs50.harvard.edu/x/2024/
     date: '2024-11-25'
     awarder: Hardvard Univeristy
-    icon: "custom/Harvard"
+    icon: edx
     summary: |
       I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
   - title: Blockchain Fundamentals
