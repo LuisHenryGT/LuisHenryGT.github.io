@@ -6,17 +6,7 @@ title: 'Reproducibility of automated and manual determination of the pulmonary a
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Gonzalez Torres, Luis Henry
-  - Biem, Henry Jason
-  - Mcinnis, Micheal
-  - Aris, Fadi
-  - Biem, Sandra Derksen
-  - Pang, Roger
-  - Fotovati, Misha
-  - Medina, Paolo F.
-  - San José Estépar, Ruben
-  - San José Estépar, Raúl
-  - Dandurand, Ronald J
+  - et Al.
 
 
 # Author notes (optional)

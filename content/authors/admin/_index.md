@@ -119,7 +119,7 @@ skills:
       - name: Soccer
         description: ''
         percent: 100
-        icon: "custom/harvard"
+        icon: "custom/futbol"
       - name: Trail running
         description: ''
         percent: 100
@@ -145,7 +145,7 @@ awards:
   - title: CS50x Introduction to Computer Science - Hardvard Univeristy
     url: https://cs50.harvard.edu/x/2024/
     date: '2024-11-25'
-    awarder: Hardvard Univeristy
+    awarder: Harvard Univeristy
     icon: "custom/harvard"
     summary: |
       I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
@@ -155,8 +155,7 @@ awards:
     awarder: Society for Imaging Informatics in Medicine
     icon: code-bracket
     summary: |
-      Learned:
-      - Medical imaging
+      DPA, RSNA and SIIM have established the NIIC Scholarship Program to assist students, residents, fellows, and PhD Candidates to attend the week-long online experience for imaging informaticists seeking to better leverage their expertise towards a broader, more holistic engagement within the field. Borne out of our collaboration with the RSNA and DPA, NIIC is the first of its kind to delve into comprehensive fundamental principles in today’s real-world ecosystem of imaging informatics - in order to create enduring engagement and innovation within the field.
 ---
 
 ## About Me
