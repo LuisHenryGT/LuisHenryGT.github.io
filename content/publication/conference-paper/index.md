@@ -6,14 +6,25 @@ title: 'Reproducibility of automated and manual determination of the pulmonary a
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - et Al.
+  - Gonzalez Torres, Luis Henry
+  - Biem, Henry Jason
+  - Mcinnis, Micheal
+  - Aris, Fadi
+  - Biem, Sandra Derksen
+  - Pang, Roger
+  - Fotovati, Misha
+  - Medina, Paolo F.
+  - San José Estépar, Ruben
+  - San José Estépar, Raúl
+  - Dandurand, Ronald J
+
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-10-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +37,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *European Respiratory conference*
-publication_short: In *ERC*
+publication_short: In *European Respiratory Journal Suppl.*
 
 abstract: 
 
@@ -40,9 +51,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Custom Link
+   url: https://publications.ersnet.org/content/erj/64/suppl68/pa1657
 
 url_pdf: ''
 url_code: 'https://github.com/LuisHenryGT'

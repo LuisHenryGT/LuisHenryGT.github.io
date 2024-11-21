@@ -103,7 +103,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
+        icon: devicon/python
       - name: MATLAB
         description: ''
         percent: 100
@@ -119,7 +119,7 @@ skills:
       - name: Soccer
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: "custom/harvard"
       - name: Trail running
         description: ''
         percent: 100
