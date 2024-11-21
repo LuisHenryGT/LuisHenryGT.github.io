@@ -6,10 +6,10 @@ event_url:
 
 location: MUHC RVH Block D - D02.1312
 address:
-  street: 1011 Decarie Blvd
+  street: 1011 Decarie Blvd, 
   city: Montreal
-  region:
-  postcode:
+  region: Quebec 
+  postcode: H4A 3J1
   country: Canada
 
 summary: Come celebrate the last event of the year with pizza!!🍕😋
@@ -17,8 +17,8 @@ abstract: 'Want to learn more about artificial intelligence and its various appl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-01T13:00:00Z'
-date_end: '2024-06-01T15:00:00Z'
+date: '2024-06-01T18:00:00Z'
+date_end: '2024-06-01T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://github.com/LuisHenryGT/MRIG_data'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

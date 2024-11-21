@@ -62,8 +62,8 @@ education:
     date_start: 2018-09-01
     date_end: 2021-06-30
     summary: |
-      - SUMMA CUM LAUDE, GPA: 3.98/4.0
-      - Dean’s Honour List and Merit Scholarship recipient each year
+      - GPA: 3.98/4.0
+      - Thesis on Optimizing Operating Room Efficiency with Machine Learning Analytics
 
   - area: Diploma of College Studies in Natural Sciences
     institution: Cégep de l'Abitibi-Témiscamingue
