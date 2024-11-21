@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'I'm Luis Henry Gonzalez Torres, a passionate medical student dedicated to advancing healthcare through technology and innovation:)'
+    twitter: 'LuisHenryGT'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. Please reach out to collaborate 😃'
+    notice: '© {year} Me. Don't hesitate to reach out for collaboration :)'
     license:
       enable: true
       allow_derivatives: false

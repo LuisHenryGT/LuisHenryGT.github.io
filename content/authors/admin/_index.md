@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 4th-year Medical Studdent
+role: 4<sup>th</sup>year Medical Studdent
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,40 +38,39 @@ profiles:
   - icon: brands/github
     url: https://github.com/LuisHenryGT
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/luis-henry-gonzalez-torres/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-4758-7621
 
 interests:
   - Medicine
-  - Computer Science
   - Medical imaging
+  - Computer Science
 
 education:
   - area: M.D.,C.M.
     institution: McGill University
     date_start: 2021-08-15
-    date_end: 2025-05-30
+    date_end:
     summary: |
-      - Nominations for Outstanding professionalism and Empathy during Clerkship
-      - Clarke McLeod Scholarship - Anatomy Prosection Award 
-      - Multiple electives in radiology, nuclear medicine, and related specialties
+      - Completed multiple electives in radiology, nuclear medicine, and related specialties
+      - Nominated for Outstanding Professionalism and Empathy during Clerkship
+      - Clarke McLeod Scholarship - Anatomy Prosection Award
 
   - area: B.Sc. Health Science
     institution: University of Ottawa
-    date_start: 2018-08-30
+    date_start: 2018-09-01
     date_end: 2021-06-30
     summary: |
-      - GPA: 3.98/4.0
-      - Thesis on AI generated guideline for surgical palning.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      - SUMMA CUM LAUDE, GPA: 3.98/4.0
+      - Dean’s Honour List and Merit Scholarship recipient each year
 
   - area: Diploma of College Studies in Natural Sciences
     institution: Cégep de l'Abitibi-Témiscamingue
     date_start: 2016-09-01
     date_end: 2018-05-30
+    summary: |
+      - Competed with the varsity soccer team
 
 work:
   - position: AI Internship
@@ -84,19 +83,17 @@ work:
     summary: |2-
       Responsibilities include:
       - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Explore innovative strategies utilizing imaging to improve the prediction of risk factors, such as thromboembolic events
+  - position: Lung Physiology and Imaging
+    company_name: McGill University
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
+      - Develop Python and MATLAB code for the lab to advance various research projects
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,31 +103,31 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: R
-        description: ''
-        percent: 100
-        icon: chart-bar
+        icon: python
       - name: MATLAB
         description: ''
+        percent: 100
+        icon: devicon/matlab
+      - name: R
+        description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/r
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Soccer
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
+      - name: Trail running
+        description: ''
+        percent: 100
+        icon: person-simple-walk
       - name: Coding
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: code-bracket
 
 languages:
   - name: English
@@ -149,27 +146,17 @@ awards:
     url: https://cs50.harvard.edu/x/2024/
     date: '2024-11-25'
     awarder: Hardvard Univeristy
-    icon: edx
+    icon: "custom/harvard"
     summary: |
       I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: NIIC Scholarship Program (SIIM and RSNA)
+    url: https://siim.org/learning-events/learning/niic/scholarships/
+    date: '2024-05-01'
+    awarder: Society for Imaging Informatics in Medicine
+    icon: code-bracket
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Medical imaging
 ---
 
 ## About Me
