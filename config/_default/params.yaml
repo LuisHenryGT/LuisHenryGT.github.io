@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "I'm Luis Henry Gonzalez Torres, a passionate medical student dedicated to advancing healthcare through technology and innovation:)"
+    description: "I'm Luis Henry Gonzalez Torres, a passionate medical student dedicated to advancing healthcare through technology and innovation"
     twitter: 'LuisHenryGT'
   analytics:
     google_analytics: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. Don't hesitate to reach out for collaboration :)'
+    notice: "© {year} Me. Don't hesitate to reach out for collaboration"
     license:
       enable: true
       allow_derivatives: false
