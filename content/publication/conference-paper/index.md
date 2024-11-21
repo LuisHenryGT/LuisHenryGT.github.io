@@ -7,8 +7,6 @@ title: 'Reproducibility of automated and manual determination of the pulmonary a
 authors:
   - admin
   - et Al.
-
-
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
