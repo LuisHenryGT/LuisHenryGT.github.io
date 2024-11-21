@@ -51,9 +51,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: https://publications.ersnet.org/content/erj/64/suppl68/pa1657
+# links:
+# - name: Custom Link
+#   url: https://publications.ersnet.org/content/erj/64/suppl68/pa1657
 
 url_pdf: ''
 url_code: 'https://github.com/LuisHenryGT'
