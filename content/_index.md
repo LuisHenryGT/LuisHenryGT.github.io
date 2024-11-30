@@ -49,6 +49,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-awards
+    id: certification
+    content:
+      title: Certifications
+      username: admin
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: collection
     id: talks
     content:
@@ -58,5 +69,9 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1     
+      columns: 1
+ - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
