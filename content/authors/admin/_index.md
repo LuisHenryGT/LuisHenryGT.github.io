@@ -57,7 +57,7 @@ education:
       - Nominated for Outstanding Professionalism and Empathy during Clerkship
       - Clarke McLeod Scholarship - Anatomy Prosection Award
 
-  - area: B.Sc. Health Science (SUMMA CUM LAUDE)
+  - area: B.H.Sc. Health Science
     institution: University of Ottawa
     date_start: 2018-09-01
     date_end: 2021-06-30
