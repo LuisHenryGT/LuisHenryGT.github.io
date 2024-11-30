@@ -1,8 +1,7 @@
 ---
-title: 'Characterizing chronic obstructive pulmonary disease using alpha-1 antitrypsin genotype, spirometry, and respiratory oscillometry'
+title: '“Reproducibility of automated and manual determination of the pulmonary artery to aorta ratio (PA:A) of "real-world" CT scans'
 authors:
-- admin
-- et Al.
+- Fotovati, M., Medina, P. F., Pang, R., Gonzalez Torres, L. H., […], & Dandurand, R. J.
 date: '2024-10-30T00:00:00Z'
 publishDate: '2024-09-01T00:00:00Z'
 publication_types: ['paper-conference']
