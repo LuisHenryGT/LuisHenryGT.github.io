@@ -98,7 +98,7 @@ work:
       - Develop Python and MATLAB code for the lab to advance various research projects.
       - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
 
-# Skills
+# Skills.
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
