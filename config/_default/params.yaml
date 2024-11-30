@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {year} Me. Don't hesitate to reach out for collaboration"
+    notice: "© {year} Me. Don't hesitate to reach out for collaboration :)"
     license:
       enable: true
       allow_derivatives: false
