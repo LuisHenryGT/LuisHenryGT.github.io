@@ -84,8 +84,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images
-      - Explore innovative strategies utilizing imaging to improve the prediction of thromboembolic events
+      - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images.
+      - Explore innovative strategies utilizing imaging to improve the prediction of thromboembolic events.
   - position: Lung Physiology and Imaging - Centre for Respiratory Research 
     company_name: McGill University
     company_url: ''
@@ -95,7 +95,7 @@ work:
     summary: |
       Responsibilities include:
       - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
-      - Develop Python and MATLAB code for the lab to advance various research projects
+      - Develop Python and MATLAB code for the lab to advance various research projects.
       - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
 
 # Skills
