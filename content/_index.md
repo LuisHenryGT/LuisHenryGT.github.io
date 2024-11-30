@@ -30,6 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   - block: resume-experience
     content:
       username: admin
@@ -45,7 +49,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - abs
         exclude_featured: false
     design:
       view: citation
@@ -70,18 +74,5 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - abs
-        exclude_featured: false
-    design:
-      view: citation
+
 ---

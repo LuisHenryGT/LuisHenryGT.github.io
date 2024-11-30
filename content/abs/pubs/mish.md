@@ -2,7 +2,7 @@
 title: 'Transforming asthma management: Advancing towards precision care with spectral and intrabreath oscillometry'
 authors:
 - Fotovati, M., Medina, P. F., Pang, R., Gonzalez Torres, L. H., […], & Dandurand, R. J.
-date: '2024-10-30T00:00:00Z'
+date: '2024-04-30T00:00:00Z'
 publishDate: '2024-09-01T00:00:00Z'
 publication_types: ['paper-conference']
 
