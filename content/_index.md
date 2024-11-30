@@ -70,7 +70,7 @@ sections:
     design:
       view: article-grid
       columns: 1
- - block: resume-languages
+  - block: resume-languages
     content:
       title: Languages
       username: admin
