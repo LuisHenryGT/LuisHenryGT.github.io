@@ -150,7 +150,7 @@ awards:
     summary: |
       I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
   - title: RSNA Imaging AI Certificate
-    url: /uploads/RSNA_Certificate.pdf/
+    url: uploads/RSNA_Certificate.pdf
     date: '2024-06-11'
     awarder: Radiological Society of North America
     icon: code-bracket
