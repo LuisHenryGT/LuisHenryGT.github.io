@@ -15,5 +15,5 @@ publication_short: In *J Respir Crit Care Med*
 #  url: https://publications.ersnet.org/content/erj/64/suppl68/pa1657
 
 url_pdf: ''
-url_code: 'https://github.com/LuisHenryGT'
+url_code: ''
 ---

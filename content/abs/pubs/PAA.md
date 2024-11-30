@@ -13,5 +13,5 @@ publication_short: In *European Respiratory Journal*
 #  url: https://publications.ersnet.org/content/erj/64/suppl68/pa1657
 
 url_pdf: ''
-url_code: 'https://github.com/LuisHenryGT'
+url_code: ''
 ---

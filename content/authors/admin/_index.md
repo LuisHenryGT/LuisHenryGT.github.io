@@ -53,17 +53,18 @@ education:
     date_start: 2021-08-15
     date_end:
     summary: |
-      - Completed multiple electives in radiology, nuclear medicine, and related specialties
+      - Completed multiple clerkship electives in medical imaging and related specialties
       - Nominated for Outstanding Professionalism and Empathy during Clerkship
       - Clarke McLeod Scholarship - Anatomy Prosection Award
 
-  - area: B.Sc. Health Science
+  - area: B.Sc. Health Science (SUMMA CUM LAUDE)
     institution: University of Ottawa
     date_start: 2018-09-01
     date_end: 2021-06-30
     summary: |
       - GPA: 3.98/4.0
-      - Thesis on Optimizing Operating Room Efficiency with Machine Learning Analytics
+      - Machine learning-derived guidelines for operating room efficiency
+      - NSERC - Undergraduate Student Research Awards
 
   - area: Diploma of College Studies in Natural Sciences
     institution: Cégep de l'Abitibi-Témiscamingue
@@ -71,6 +72,7 @@ education:
     date_end: 2018-05-30
     summary: |
       - Competed with the varsity soccer team
+      - Fonds de recherche du Québec - Nature et technologies: College Research Award 
 
 work:
   - position: AI Internship
@@ -83,8 +85,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images
-      - Explore innovative strategies utilizing imaging to improve the prediction of risk factors, such as thromboembolic events
-  - position: Lung Physiology and Imaging
+      - Explore innovative strategies utilizing imaging to improve the prediction of thromboembolic events
+  - position: Lung Physiology and Imaging - Centre for Respiratory Research 
     company_name: McGill University
     company_url: ''
     company_logo: ''
@@ -94,6 +96,7 @@ work:
       Responsibilities include:
       - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
       - Develop Python and MATLAB code for the lab to advance various research projects
+      - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
