@@ -90,13 +90,23 @@ work:
     company_name: McGill University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: ''
     summary: |
       Responsibilities include:
       - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
       - Develop Python and MATLAB code for the lab to advance various research projects
       - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
+  - position: Metric Labs Intern Researcher
+    company_name: University of Ottawa
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-03-01
+    date_end: 2021-05-30
+    summary: |
+      Responsibilities include:
+      - Applied machine learning to operating room data (patient demographic, anesthesia used, etc..) to optimize and enhance orthopedic surgery efficiency
+      - Developed a mathematical model for a 6 degrees of freedom (DOF) mobile C-arm and a 4-DOF operating table as an integrated kinematic chain to support research in computer-assisted interventions
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
