@@ -82,4 +82,6 @@ sections:
         folders:
           - abs
         exclude_featured: false
+    design:
+      view: citation
 ---
