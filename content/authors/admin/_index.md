@@ -94,7 +94,7 @@ work:
     date_end: 2023-09-01
     summary: |
       Responsibilities include:
-      - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities.
+      - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
       - Develop Python and MATLAB code for the lab to advance various research projects.
       - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
 
