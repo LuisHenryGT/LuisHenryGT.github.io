@@ -1,12 +1,9 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# To publish publications profile pages, remove all the `_build` and `cascade` settings below.
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
