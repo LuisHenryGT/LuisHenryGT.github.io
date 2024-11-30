@@ -30,11 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
