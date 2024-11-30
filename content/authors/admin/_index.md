@@ -95,9 +95,9 @@ work:
     summary: |
       Responsibilities include:
       - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities.
-      - Develop Python and MATLAB code for the lab to advance various research projects.
+      - Develop Python and MATLAB codes for the lab to advance various research projects.
       - Analyzed radiomic derived from community healthcare CT scans to study their correlation with respiratory conditions.
-  - position: Metric Labs Intern Researcher
+  - position: Metrics-Lab Research Intern
     company_name: University of Ottawa
     company_url: ''
     company_logo: ''
@@ -155,29 +155,29 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: CS50x Introduction to Computer Science - Hardvard Univeristy
+  - title: CS50x Introduction to Computer Science - Harvard Univeristy
     url: 
     date: '2024-11-25'
     awarder: Harvard Univeristy
     icon: "custom/harvard"
     summary: |
-      I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
+      I completed an introduction to computer science and programming course, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
   - title: RSNA Imaging AI Certificate
     url: uploads/RSNA_Certificate.pdf
     date: '2024-06-11'
     awarder: Radiological Society of North America
     icon: "custom/RSNA_favicon.svg"
     summary: |
-      The RSNA Imaging AI Foundational Certicate, is a six-module program demonstrating prociency in understanding, evaluating, deploying, and safely using AI tools in medical imaging. Motivated by a strong interest in the integration of AI and radiology and a commitment to staying current with the eld's evolving future
-  - title: NIIC Scholarship Program (SIIM and RSNA)
+      The RSNA Imaging AI Foundational Certicate, is a six-module program demonstrating prociency in understanding, evaluating, deploying, and safely using AI tools in medical imaging. I am motivated by my strong interest in the integration of AI in radiology and my commitment to stay current with the field's evolving future
+  - title: NIIC Scholarship Program
     url: /uploads/NIIC_Certificate.pdf
     date: '2024-03-08'
     awarder: Society for Imaging Informatics in Medicine
     icon: code-bracket
     summary: |
-      DPA, RSNA and SIIM have established the NIIC Scholarship Program to assist students, residents, fellows, and PhD Candidates to attend the week-long online experience for imaging informaticists seeking to better leverage their expertise towards a broader, more holistic engagement within the field. Borne out of our collaboration with the RSNA and DPA, NIIC is the first of its kind to delve into comprehensive fundamental principles in today’s real-world ecosystem of imaging informatics - in order to create enduring engagement and innovation within the field.
+      Awarded a scholarship to attend a week-long course designed by SIIM and RSNA, providing foundational knowledge in imaging informatics. Driven by a passion for medical imaging and healthcare technology, I continuously pursue self-directed learning to deepen my expertise.
 ---
 
 ## About Me
 
- Hi 👋 I'm Luis Henry Gonzalez Torres a fourth-year medical student at McGill University with a passion for radiology and medical imaging. My academic interests span artificial intelligence in healthcare, imaging informatics, and clinical decision-making tools. I've also collaborated on research exploring reproducibility of thoracic CT scan measurements. I actively contributes to workshops and initiatives, such as teaching peers to develop AI algorithms and organizing an inter-university ultrasound competitions. My future goal is to combine my love for anatomy, medical imaging and technology, aiming to advance patient care.
+ Hi 👋 I'm Luis Henry Gonzalez Torres, a fourth-year medical student at McGill University with a passion for radiology and medical imaging. My academic interests span from artificial intelligence in healthcare to imaging informatics, and clinical decision-making tools. I've also collaborated on research exploring reproducibility of thoracic CT scan measurements. I actively contribute to workshops and initiatives, such as teaching peers to develop AI algorithms and organizing inter-university ultrasound competitions. My future goal is to combine my love for anatomy, medical imaging and technology, aiming to advance patient care.
