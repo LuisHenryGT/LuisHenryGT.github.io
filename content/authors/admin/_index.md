@@ -82,7 +82,7 @@ work:
     company_logo: ''
     date_start: 2023-10-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Build a U-Net AI model for 3D reconstructions of carotid vascular structures from 2D ultrasound images
       - Explore innovative strategies utilizing imaging to improve the prediction of thromboembolic events
