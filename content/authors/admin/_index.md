@@ -143,7 +143,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: CS50x Introduction to Computer Science - Hardvard Univeristy
-    url: https://cs50.harvard.edu/x/2024/
+    url: 
     date: '2024-11-25'
     awarder: Harvard Univeristy
     icon: "custom/harvard"
