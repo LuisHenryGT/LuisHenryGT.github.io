@@ -50,7 +50,7 @@ sections:
     design:
       view: citation
   - block: resume-awards
-    id: certification
+    id: certifications
     content:
       title: Certifications
       username: admin
