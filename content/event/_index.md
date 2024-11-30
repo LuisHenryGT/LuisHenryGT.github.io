@@ -1,9 +1,13 @@
 ---
-# To publish publications profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+title: Recent & Upcoming Talks
+cms_exclude: true
+#url: talk
+
+# View
+view: card
+
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ''
+  filename: ''
 ---
