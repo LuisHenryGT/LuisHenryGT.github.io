@@ -91,7 +91,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-03-01
-    date_end: ''
+    date_end: 2023-09-01
     summary: |
       Responsibilities include:
       - Correlate cutting-edge lung physiology devices, such as oscillometry, with different imaging modalities
