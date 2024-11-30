@@ -1,12 +1,12 @@
 ---
 title: 'Transforming asthma management: Advancing towards precision care with spectral and intrabreath oscillometry'
 authors:
-- Gonzalez Torres, L. H., Biem, H. J., McInnis, M., Aris, F., […], San Jose Estepar, R., Ross, B., & Dandurand, R. J.
+- Fotovati, M., Medina, P. F., Pang, R., Gonzalez Torres, L. H., […], & Dandurand, R. J.
 date: '2024-10-30T00:00:00Z'
 publishDate: '2024-09-01T00:00:00Z'
 publication_types: ['paper-conference']
 
-publication_short: In *European Respiratory Journal*
+publication_short: In *J Respir Crit Care Med*
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
