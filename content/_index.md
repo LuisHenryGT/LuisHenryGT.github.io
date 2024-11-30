@@ -70,6 +70,6 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
 
 ---
