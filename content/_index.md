@@ -74,4 +74,12 @@ sections:
     content:
       title: Languages
       username: admin
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - abs
+        exclude_featured: false
 ---
