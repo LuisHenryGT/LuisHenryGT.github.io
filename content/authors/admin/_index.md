@@ -156,7 +156,7 @@ awards:
     url: uploads/RSNA_Certificate.pdf
     date: '2024-06-11'
     awarder: Radiological Society of North America
-    icon: https://www.rsna.org/images/rsna/favicon.png
+    icon: assets/media/icons/custom/RSNA_favicon.png
     summary: |
       The RSNA Imaging AI Foundational Certicate, is a six-module program demonstrating prociency in understanding, evaluating, deploying, and safely using AI tools in medical imaging. Motivated by a strong interest in the integration of AI and radiology and a commitment to staying current with the eld's evolving future
   - title: NIIC Scholarship Program (SIIM and RSNA)
