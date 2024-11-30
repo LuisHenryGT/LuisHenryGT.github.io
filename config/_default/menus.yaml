@@ -13,10 +13,10 @@ main:
   - name: Papers
     url: /#papers
     weight: 12
-  - name: Events
-    url: /#talks
-    weight: 13
   - name: Certifications
     url: /#certifications
+    weight: 13
+  - name: Events
+    url: /#talks
     weight: 14
 
