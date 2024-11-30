@@ -149,9 +149,16 @@ awards:
     icon: "custom/harvard"
     summary: |
       I completed an introduction to computer science and programming, learning to solve problems through computational thinking, algorithms, and data structures. I gained proficiency in foundational programming concepts using C and Python, explored web development with HTML, CSS, and JavaScript, and worked with SQL for database management. The course emphasized correctness, design, and style, culminating in a final project where I applied these skills to create innovative applications.
+  - title: RSNA Imaging AI Certificate
+    url: /uploads/RSNA_Certificate.pdf/
+    date: '2024-06-11'
+    awarder: Radiological Society of North America
+    icon: code-bracket
+    summary: |
+      The RSNA Imaging AI Foundational Certicate, is a six-module program demonstrating prociency in understanding, evaluating, deploying, and safely using AI tools in medical imaging. Motivated by a strong interest in the integration of AI and radiology and a commitment to staying current with the eld's evolving future
   - title: NIIC Scholarship Program (SIIM and RSNA)
-    url: https://siim.org/learning-events/learning/niic/scholarships/
-    date: '2024-05-01'
+    url: /uploads/NIIC_Certificate.pdf/
+    date: '2024-03-08'
     awarder: Society for Imaging Informatics in Medicine
     icon: code-bracket
     summary: |
@@ -160,4 +167,4 @@ awards:
 
 ## About Me
 
- Hi 👋 I'm Luis Henry Gonzalez Torres a fourth-year medical student at McGill University with a passion for radiology and medical imaging. My academic interests span artificial intelligence in healthcare, imaging informatics, and clinical decision-making tools.I've also collaborated on research exploring reproducibility in thoracic CT scan measurements. I actively contributes to workshops and initiatives, such as teaching peers to develop AI algorithms for detecting pneumonia on chest X-rays and organizing inter-university ultrasound competitions. My future goal is to combine my love for anatomy, medical imaging and technology, aiming to advance patient care.
+ Hi 👋 I'm Luis Henry Gonzalez Torres a fourth-year medical student at McGill University with a passion for radiology and medical imaging. My academic interests span artificial intelligence in healthcare, imaging informatics, and clinical decision-making tools. I've also collaborated on research exploring reproducibility of thoracic CT scan measurements. I actively contributes to workshops and initiatives, such as teaching peers to develop AI algorithms and organizing an inter-university ultrasound competitions. My future goal is to combine my love for anatomy, medical imaging and technology, aiming to advance patient care.
